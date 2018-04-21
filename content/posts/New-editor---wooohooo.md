@@ -2,7 +2,6 @@
 title: "New editor - wooohooo"
 type: "post"
 date: 2018-04-21T14:42:40
-draft: true
 ---
 After being limited with the simple textbox I used before for entering text, I decided to switch to an alternative.
 

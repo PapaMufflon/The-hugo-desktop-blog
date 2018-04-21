@@ -2,7 +2,6 @@
 title: "First post"
 type: "post"
 date: 2018-03-24T15:50:49.817Z
-draft: true
 ---
 # It's done (not really)
 Awesome, this will be the first blog entry written with the pre-alpha prototypy hugo-desktop app (working title...). What do I have so far?
